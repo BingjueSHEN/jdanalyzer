@@ -1,6 +1,6 @@
 {
   "buildCommand": "next build",
   "installCommand": "pnpm install --ignore-scripts",
-  "framework": "nextjs",
-  "nodeVersion": "20"
+  "framework": "nextjs"
 }
+
